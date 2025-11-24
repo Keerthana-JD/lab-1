@@ -1,0 +1,26 @@
+body {
+    font-family: Arial;
+    background-color: #f0f0f0;
+}
+
+.login-container {
+    width: 300px;
+    margin: 120px auto;
+    padding: 20px;
+    background: white;
+    box-shadow: 0 0 10px gray;
+    text-align: center;
+}
+
+input, button {
+    width: 90%;
+    padding: 10px;
+    margin: 8px 0;
+}
+
+button {
+    background-color: royalblue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
